@@ -1,0 +1,96 @@
+typography_spectrum: 0.8093819758172451
+color:
+  brandStrength: 0.9116758354578979
+  lightness: 0.8345113736523849
+  saturation: 0.47806529437523737
+  rhythmicContrast: 0.1927758851140221
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.5609723763156793
+author:
+  name: emily herath hospitality 2017©
+  email: turnpin@postpro.net
+name: 'emily herath hospitality '
+url: 'http://emilyherath.net'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: a little bit about who we are
+    id: 3b7db614-55db-4a41-a35b-375d80e99c6c
+    type: content
+  - name: 'we like to listen, why don''t you talk to us'
+    id: 7c0a6d2f-1eb5-43db-baa4-bc61c31fc2f3
+    type: content
+title: emily herath hospitality
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F30792525&url=https%3A%2F%2Fvimeo.com%2F30792525&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F207029190_1280.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo"
+      width="1000" height="563" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://vimeo.com/30792525'
+      keywords: []
+      related: []
+      author:
+        - name: Adam Schmisek
+          url: 'https://vimeo.com/schmisek'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Sunrise
+      '@type': VideoObject
+      app_links:
+        - url: 'vimeo://app.vimeo.com/videos/30792525'
+          type: ios
+          namespace: ai
+          app_name: Vimeo
+          app_store_id: '425194759'
+        - should_fallback: 'true'
+          app_name: Vimeo
+          package: com.vimeo.android.videoapp
+          url: 'vimeo://app.vimeo.com/videos/30792525'
+          namespace: ai
+          type: web
+        - url: 'vimeo://app.vimeo.com/videos/30792525'
+          namespace: twitter
+          type: ipad
+          name: Vimeo
+          id: '425194759'
+        - url: 'vimeo://app.vimeo.com/videos/30792525'
+          namespace: twitter
+          type: iphone
+          name: Vimeo
+          id: '425194759'
+        - url: 'vimeo://app.vimeo.com/videos/30792525'
+          namespace: twitter
+          type: googleplay
+          name: Vimeo
+          id: com.vimeo.android.videoapp
+      publisher:
+        url: 'https://vimeo.com/'
+        name: Vimeo
+        favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+        domain: vimeo.com
+      description: >-
+        An early morning sunrise on a reservoir. For this shoot I wanted to
+        capture the feeling of being awakened by the sun. Most of the video is
+        the nature color I captured while shooting this short film. Tools used:
+        Canon T3i, 18-55mm lens, Final Cut, After Effects ENJOY!
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'service delivered beautifully '
+github: true
