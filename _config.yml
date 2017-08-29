@@ -1,16 +1,16 @@
-typography_spectrum: 0.8093819758172451
+layout_spectrum: 0.7939707319603514
+typography_spectrum: 0.8149125520295768
 color:
-  brandStrength: 0.9116758354578979
-  lightness: 0.8345113736523849
-  saturation: 0.47806529437523737
-  rhythmicContrast: 0.1927758851140221
+  brandStrength: 0.8878520665157328
+  lightness: 0.8414056431032754
+  saturation: 0.9159237081815701
+  rhythmicContrast: 0.27434677797775386
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.5609723763156793
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
 author:
   name: emily herath hospitality 2017©
   email: turnpin@postpro.net
